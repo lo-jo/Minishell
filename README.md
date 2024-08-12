@@ -1,7 +1,7 @@
 # Minishell
 Lightweight version of the bash shell. Core functionalities include command execution, file redirection and piping, complemented by a curated set of built-in commands.
 
-This project was made during my time at 42 Paris in collaboration with Elsie Malgouvre.
+This project was made during my time at 42 Paris in collaboration with Elise M.
 
 # Features
 Basic mandatory features include :
